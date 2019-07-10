@@ -16,7 +16,7 @@
         "acorn-dynamic-import": "^4.0.0",
         "codemirror": "^5.35.0",
         "history": "^4.7.2",
-        "jest": "^23.5.0",
+        "jest": "^24.8.0",
         "lodash": "^4.17.5",
         "marked": "^0.6.3",
         "moment": "^2.21.0",
