@@ -14,7 +14,7 @@
     "private": true,
     "dependencies": {
         "acorn-dynamic-import": "^4.0.0",
-        "codemirror": "^5.35.0",
+        "codemirror": "^5.58.2",
         "history": "^4.7.2",
         "jest": "^24.8.0",
         "lodash": "^4.17.5",
